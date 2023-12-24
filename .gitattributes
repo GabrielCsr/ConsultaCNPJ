@@ -1,0 +1,4 @@
+* linguist-vendored
+*.pascal linguist-vendored=false
+
+*.delphi linguist-detectable=true
